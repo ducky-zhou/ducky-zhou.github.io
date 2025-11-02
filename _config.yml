@@ -12,7 +12,3 @@ url: "https://ducky-zhou.github.io"
 theme: minima
 plugins:
   - jekyll-feed
-  
-  
-  
-  Add minima theme config

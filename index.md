@@ -2,9 +2,10 @@
 layout: default
 title: 我的个人学术主页
 ---
-# Welcome to my homepage！欢迎来到我的主页鸭
+# Welcome！
+### 欢迎来到我的主页鸭~
 
-我是 ducky-zhou，{{浙江大学}}的新生。(●'◡'●)
+这里是 ducky-zhou，a freshman in ZJU.(●'◡'●)
 
 
 ## 研究兴趣
